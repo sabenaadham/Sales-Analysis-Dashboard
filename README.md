@@ -28,7 +28,8 @@ This project aims to perform data analysis using Tableau by creating dynamic and
   This project demonstrates strong capabilities in:
 - Data Visualization 
 - Business Analysis 
-- Data Storytelling 
+- Data Storytelling
+  
 It highlights the ability to transform raw data into actionable insights using 
 Tableau.
 
