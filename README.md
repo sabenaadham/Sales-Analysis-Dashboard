@@ -15,6 +15,9 @@ This project aims to perform data analysis using Tableau by creating dynamic and
 - Peak Sales Periods
 
 - Dashboard Interaction <a href="https://github.com/sabenaadham/Sales-Analysis-Dashboard/blob/main/salaes%20analysis%20dashboard.png">View Dashboard</a>
+## Dasboard
+![Uploading salaes analysis dashboard.png…]()
+
 
 ## Key Insights
 
