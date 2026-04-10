@@ -16,7 +16,7 @@ This project aims to perform data analysis using Tableau by creating dynamic and
 
 - Dashboard Interaction <a href="https://github.com/sabenaadham/Sales-Analysis-Dashboard/blob/main/salaes%20analysis%20dashboard.png">View Dashboard</a>
 ## Dasboard
-![Uploading sales analysis dashboard.png…]()
+![Uploading sales analysis dashboard.png…](https://github.com/sabenaadham/Sales-Analysis-Dashboard/blob/main/salaes%20analysis%20dashboard.png)
 
 
 
